@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WireMock.Net.Abstractions/WireMock.Net.Abstractions.csproj" />
+    <Project Path="src/WireMock.Net.Extensions.Routing/WireMock.Net.Extensions.Routing.csproj" />
+    <Project Path="src/WireMock.Net.Minimal/WireMock.Net.Minimal.csproj" />
+    <Project Path="src/WireMock.Net.OpenApiParser/WireMock.Net.OpenApiParser.csproj" />
+    <Project Path="src/WireMock.Net.Shared/WireMock.Net.Shared.csproj" />
+    <Project Path="src/WireMock.Org.Abstractions/WireMock.Org.Abstractions.csproj" />
+  </Folder>
+</Solution>
